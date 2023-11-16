@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../css 1-dars"
+		},
+		{
+			"path": "../java.skript"
+		},
+		{
+			"path": "../spiska"
+		},
+		{
+			"path": "../budilnik"
+		},
+		{
+			"path": "../localStorige"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../shadowHend"
+		},
+		{
+			"path": "../stall-energo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shadowHend"
+	}
+}
